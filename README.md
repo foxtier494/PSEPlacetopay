@@ -24,4 +24,4 @@ En screenshot va a poder apreciar el proceso para utilizar la aplicación
 
 se requiere php 7.2.*, memcached para php
 
-todo fue desarollado en S.O Gnu/Linux Ubuntu 18.04 LST tambien debe de funcionar en Windows sin ningun problema
+todo fue desarollado en S.O Gnu/Linux Ubuntu 18.04 LTS tambien debe de funcionar en Windows sin ningun problema
